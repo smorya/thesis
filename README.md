@@ -1,3 +1,5 @@
+# On Ways To Optimize A/B Testing in Low-conversion Marketing Funnels 
+
 # Background
 
 Traditional A/B testing( Frequentist fixed-horizon approach) is unsuitable for low-traffic marketing funnels, especially when conversion rates are low. Businesses would waste weeks waiting for enough data to make a decision — only to end up with results that are statistically unclear or hard to act on.
