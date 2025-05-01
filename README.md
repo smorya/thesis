@@ -36,7 +36,7 @@ To preprocess data, `for_data.ipynb` file was used. The data is anonimized due t
 
 ```bash
 # Clone this repo
-git clone https://github.com/yourname/bayesian-ab-thesis.git
+git clone https://github.com/smorya/thesis.git
 cd bayesian-ab-thesis
 
 # (Optional ) Set up a clean environment
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 `Experiments.ipynb`
 ```
 
-# Details on usage od `Experiments.ipynb` file
+# Details on usage of `Experiments.ipynb` file
 The file contains several chunks:
 1. Import of processed data
 2. Theory functions
