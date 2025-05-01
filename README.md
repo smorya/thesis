@@ -37,7 +37,6 @@ To preprocess data, `for_data.ipynb` file was used. The data is anonimized due t
 ```bash
 # Clone this repo
 git clone https://github.com/smorya/thesis.git
-cd bayesian-ab-thesis
 
 # (Optional ) Set up a clean environment
 python -m venv venv
@@ -47,7 +46,8 @@ source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 pip install -r requirements.txt
 
 # Run main experiments file
-`Experiments.ipynb`
+Experiments.ipynb
+
 ```
 
 # Details on usage of `Experiments.ipynb` file
